@@ -6,8 +6,8 @@ class RatingeScreen extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(title: Text('Profile Page')),
-      body: Center(child: Text('ProfileScreen')),
+      appBar: AppBar(title: Text('Rating Page')),
+      body: Center(child: Text('Ratinge Screen')),
     );
   }
 }
