@@ -78,8 +78,9 @@ Name: Abdulteef Rashid
 GitHub: Abdulteef1998
 
 Mentor / Grant: Omar Ahmed Menorshio
-┃
-┣ main.dart
+ 
+
+
 <img width="971" height="578" alt="folder" src="https://github.com/user-attachments/assets/97128377-0c44-47d2-9526-b6d23096bcbb" />
 <img width="1920" height="1080" alt="home_screen" src="https://github.com/user-attachments/assets/60c77b6a-3bd1-4256-b1de-d744b8e92fd0" />
 <img width="1920" height="1080" alt="watch" src="https://github.com/user-attachments/assets/b54bb4fc-4bdf-49d1-bb8c-ecb303e85a27" />
