@@ -2,8 +2,7 @@ import 'dart:ui';
 
 import 'package:flutter/material.dart';
 import 'package:gap/gap.dart';
-
-import '../../../../core/utils/app_images.dart';
+import 'package:task_week2_omar_mentorship/core/utils/app_images.dart';
 
 class VideoInfoSection extends StatelessWidget {
   const VideoInfoSection({super.key});

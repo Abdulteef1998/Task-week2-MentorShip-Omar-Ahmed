@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:task_week2_omar_mentorship/features/detail/presentation/views/detail_view.dart';
 import 'package:task_week2_omar_mentorship/features/home/data/data_source/remote_home_data_source.dart';
 import 'package:task_week2_omar_mentorship/features/home/data/repo/home_repo.dart';
+import 'package:task_week2_omar_mentorship/features/home/ui/detail/presentation/views/detail_view.dart';
 
 // ===== Poster Entity =====
 

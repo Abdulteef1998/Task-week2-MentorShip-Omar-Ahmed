@@ -1,11 +1,10 @@
 import 'package:flutter/material.dart';
-import 'package:task_week2_omar_mentorship/features/plan/presentation/widget/plan_card_section.dart';
-import 'package:task_week2_omar_mentorship/features/plan/presentation/widget/plan_continue_button.dart';
-import 'package:task_week2_omar_mentorship/features/plan/presentation/widget/plan_header.dart';
-import 'package:task_week2_omar_mentorship/features/plan/presentation/widget/plan_rocket_image.dart';
-import 'package:task_week2_omar_mentorship/features/plan/presentation/widget/plan_seamless_anime.dart';
-
-import '../../../../core/utils/app_images.dart';
+import 'package:task_week2_omar_mentorship/core/utils/app_images.dart';
+import 'package:task_week2_omar_mentorship/features/home/ui/plan/presentation/widget/plan_card_section.dart';
+import 'package:task_week2_omar_mentorship/features/home/ui/plan/presentation/widget/plan_continue_button.dart';
+import 'package:task_week2_omar_mentorship/features/home/ui/plan/presentation/widget/plan_header.dart';
+import 'package:task_week2_omar_mentorship/features/home/ui/plan/presentation/widget/plan_rocket_image.dart';
+import 'package:task_week2_omar_mentorship/features/home/ui/plan/presentation/widget/plan_seamless_anime.dart';
 
 class PlanViewBody extends StatelessWidget {
   const PlanViewBody({super.key});

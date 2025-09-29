@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
+import 'package:task_week2_omar_mentorship/core/utils/app_images.dart';
 
-import '../../../../core/utils/app_images.dart';
 import '../widgets/detail_bottom_sheet.dart';
 import '../widgets/image_hero.dart';
 import '../widgets/video_info_section.dart';

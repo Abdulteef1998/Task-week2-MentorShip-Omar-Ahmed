@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:task_week2_omar_mentorship/core/utils/app_images.dart';
 import 'package:task_week2_omar_mentorship/core/utils/theme/app_colors.dart';
-import 'package:task_week2_omar_mentorship/features/plan/presentation/view/plan_view.dart';
+import 'package:task_week2_omar_mentorship/features/home/ui/plan/presentation/view/plan_view.dart';
 
 class DetailBottomSheet extends StatelessWidget {
   const DetailBottomSheet({super.key});
